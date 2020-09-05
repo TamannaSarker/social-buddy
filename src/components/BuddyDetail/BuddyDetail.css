@@ -1,0 +1,12 @@
+.buddy-detail{
+    text-align: center;
+    color: navy;
+    font-size: large;
+    background-color:lightblue;
+    padding: 100px;
+    margin:50px;
+    border-radius: 10px;
+}
+.bold{
+    font-weight: 700;
+}
